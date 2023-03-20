@@ -1,0 +1,32 @@
+img {
+	float: right;
+	margin-right: 75px;
+	padding: 10px;
+	width: 900px;
+	height:474px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	border-width: thick;
+}
+body {
+	background-color: #000000;
+}
+p {
+	color: #FFFFFF;
+	font-family: "Lucida Console", monospace;
+}
+h1 {
+	color: #FFFFFF;
+	font-family: "Lucida Console", monospace;
+}
+h2 {
+	color: #FFFFFF;
+	font-family: "Lucida Console", monospace;
+}
+li {
+	color: #FFFFFF;
+}
+a {
+	color: #FFFFFF;
+	font-family: "Lucida Console", monospace;
+}
